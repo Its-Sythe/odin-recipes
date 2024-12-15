@@ -1,3 +1,20 @@
 * {
     background-color: beige;
+    text-align: center;
 }
+
+h1 {
+    border-bottom: 3px solid burlywood;
+    font-family: Times;
+    font-weight: 800;
+}
+
+a, p {
+    display: inline-block;
+    font-family: Times;
+    font-weight: 800;
+    text-align: center;
+    margin: 5px -2px;
+    border-bottom: 5px solid burlywood;
+}
+
